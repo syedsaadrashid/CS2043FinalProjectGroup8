@@ -13,3 +13,7 @@ Authors:
 ## Working Features
 
 ## Planned Functionality
+
+## Useful Links
+http://www.cs.unb.ca/~wdu/cs2043/ProjectProposal.htm<br>
+https://lms.unb.ca/d2l/home/175315
