@@ -1,5 +1,7 @@
 # CS2043FinalProjectGroup8
 
+## Credits
+
 Authors: 
 - Daniel Rideout
 - Alyssa Robinson
@@ -8,4 +10,6 @@ Authors:
 - Jeremiah Sabino
 - Syed Saad Rashid
 
-Functionality:
+## Working Features
+
+## Planned Functionality
