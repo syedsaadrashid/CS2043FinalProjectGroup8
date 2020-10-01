@@ -6,7 +6,7 @@ Authors:
 - Daniel Rideout
 - Alyssa Robinson
 - Micheal Redbourne
-- Sebastion Richard
+- Sebastian Richard
 - Jeremiah Sabino
 - Syed Saad Rashid
 
