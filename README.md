@@ -29,8 +29,11 @@ User Actors:
 - Search for users
 - Send friend requests
 - Reply to friend requests
+- Kick from group
+- Leave group
 
 ## Useful Links
 
 http://www.cs.unb.ca/~wdu/cs2043/ProjectProposal.htm<br>
 https://lms.unb.ca/d2l/home/175315
+
